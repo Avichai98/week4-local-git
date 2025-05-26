@@ -1,2 +1,3 @@
 example
 adding conflict feature-a
+adding conflict feature-b
